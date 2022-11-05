@@ -1,0 +1,6 @@
+1. git status
+Una vez hubo cambios en el archivo
+git add -A 
+git commit -m "Mensaje"
+git pull -> Baja los cambios que existan en el repositorio de github
+git push -> Subir nuestros cambios del repositorio local al repositorio de github
